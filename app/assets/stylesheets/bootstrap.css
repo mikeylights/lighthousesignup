@@ -65,6 +65,7 @@ h1 {
   font-size: 2em;
 }
 
+
 abbr[title] {
   border-bottom: 1px dotted;
 }
@@ -6807,9 +6808,32 @@ td.visible-print {
     display: none !important;
   }
 }
+/*------ My Styles -----*/
+h8 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 36px;
+    margin-top: 20px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+h9 {
+    font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+  font-size: 36px;
+    margin-top: 20px;
+  margin-bottom: 10px;
+  color: black;
+}
 #profile {
   background-color: #ecf0f1;
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 20px;
+}
+#featureimage {
+  background-size: 100%;
+  height: 678px;
+  background-image: url('http://wallfive.com/wp-content/uploads/2013/07/Beach-Lighthouse-Wallpaper.jpg');
 }
