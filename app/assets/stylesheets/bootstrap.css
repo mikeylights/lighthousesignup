@@ -6807,3 +6807,9 @@ td.visible-print {
     display: none !important;
   }
 }
+#profile {
+  background-color: #ecf0f1;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}

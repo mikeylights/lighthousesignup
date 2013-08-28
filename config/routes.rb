@@ -3,6 +3,11 @@ HrManagerProfile::Application.routes.draw do
     get 'step2' => 'pages#step2'
     get 'step3' => 'pages#step3'
     get 'newevent' => 'pages#newevent'
+    get 'buildyourprofile' => 'pages#buildyourprofile'
+    get 'buildyourprofile2' => 'pages#buildyourprofile2'      
+    get 'buildyourprofile3' => 'pages#buildyourprofile3'
+    get 'buildyourprofile4' => 'pages#buildyourprofile4'
+    get 'buildyourprofile5' => 'pages#buildyourprofile5'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
